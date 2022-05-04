@@ -1241,3 +1241,4 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+i want to think about social activities and its effects on small neighbourhoods.
